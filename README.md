@@ -252,3 +252,87 @@ Auto-shutdown
  Enabled
 Scheduled shutdown
 07:00 PM (Coordinated Universal Time)
+
+
+
+
+
+
+Resource group (move)
+Tdosf-Rg-01
+Location
+eastus2
+Subscription (move)
+Azure subscription 1
+Subscription ID
+074f8aee-1630-4db7-8a6b-e5ea8972eebd
+Disk state
+Available
+Performance
+Standard
+Replication
+Locally-redundant storage (LRS)
+Account kind
+StorageV2 (general purpose v2)
+Provisioning state
+Succeeded
+Created
+9/6/2024, 4:11:35 PM
+Tags (edit)
+Add tags
+Blob service
+Hierarchical namespace
+Disabled
+Default access tier
+Hot
+Blob anonymous access
+Disabled
+Blob soft delete
+Enabled (7 days)
+Container soft delete
+Enabled (7 days)
+Versioning
+Disabled
+Change feed
+Disabled
+NFS v3
+Disabled
+Allow cross-tenant replication
+Disabled
+Storage tasks assignments
+None
+File service
+Large file share
+Enabled
+Identity-based access
+Not configured
+Default share-level permissions
+Disabled
+Soft delete
+Enabled (7 days)
+Queue service
+CMK support
+Disabled
+Table service
+CMK support
+Disabled
+Security
+Require secure transfer for REST API operations
+Enabled
+Storage account key access
+Enabled
+Minimum TLS version
+Version 1.2
+Infrastructure encryption
+Disabled
+Networking
+Allow access from
+All networks
+Private endpoint connections
+0
+Network routing
+Microsoft network routing
+Access for trusted Microsoft services
+Yes
+Endpoint type
+Standard
