@@ -3,7 +3,7 @@ Lab: Create and configure a Virtual Network with at least two subnets. Deploy a 
 Practical Task: Set up an Azure Storage Account, create a blob container, and upload/download files.
 
 
-
+Lab: Create and configure a Virtual Network with at least two subnets.
 Resource group(move)
 DiamondlinuxRg
 Status
@@ -129,6 +129,10 @@ Scheduled shutdown
 07:00 PM (Coordinated Universal Time)
 
 
+
+
+
+Lab: Create and configure a Virtual Network with at least two subnets.
 Resource group(move)
 DiamondlinuxRg
 Status
@@ -257,7 +261,7 @@ Scheduled shutdown
 
 
 
-
+Practical Task: Set up an Azure Storage Account
 Resource group (move)
 Tdosf-Rg-01
 Location
