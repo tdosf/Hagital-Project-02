@@ -343,3 +343,38 @@ Yes
 Endpoint type
 Standard
 
+
+
+
+
+
+
+
+
+
+
+diamondlinuxrgvm1and3 container created
+JSON View
+Resource group (move)
+DiamondlinuxRg
+Status
+Running
+Location (move)
+West US
+Subscription (move)
+Azure subscription 1
+Subscription ID
+074f8aee-1630-4db7-8a6b-e5ea8972eebd
+Application Url
+https://diamondlinuxrgvm1and3.wittydesert-b60b2fce.westus.azurecontainerapps.io
+Container Apps Environment
+managedEnvironment-DiamondlinuxRg-901d
+Environment type
+Workload profiles
+Log Analytics
+workspacediamondlinuxrg9b5b
+Development stack
+Generic (manage)
+.NET Aspire Dashboard
+enable
+Tags (edit)
