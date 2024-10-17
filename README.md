@@ -262,6 +262,8 @@ Scheduled shutdown
 
 
 Practical Task: Set up an Azure Storage Account
+
+
 Resource group (move)
 Tdosf-Rg-01
 Location
