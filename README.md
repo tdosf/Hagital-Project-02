@@ -342,3 +342,4 @@ Access for trusted Microsoft services
 Yes
 Endpoint type
 Standard
+
